@@ -68,16 +68,6 @@
                 "altText": ""
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "591-03-06-50",
-            "phoneAltText": "",
-            "email": "daviti@davititaba.com",
-            "emailAltText": "nigga",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
             "self": {
